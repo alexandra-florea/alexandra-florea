@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alexandra-florea
 - 👀 I’m interested in data4good, data literacy and capacity building, civic tech and computational social science
 - 🌱 I’m currently learning mapping in R at @correlAid, and knowledge management with Obsidian
-- 📚 I'm currently teaching Digital Data Analysis with @Silvia Fierascu
+- 📚 I'm currently co-teaching Digital Data Analysis with @Silvia Fierascu
 - 💞️ I’m looking to collaborate on data4good projects
 - 📫 How to reach me xandra.florea@gmail.com
 
